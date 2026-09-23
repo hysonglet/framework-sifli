@@ -2,3 +2,4 @@
 	path = sifli-sdk
 	url = https://github.com/OpenSiFli/SiFli-SDK.git
 	branch = release/v2.4
+	shallow = true
