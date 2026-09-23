@@ -1,3 +1,4 @@
 [submodule "sifli-sdk"]
 	path = sifli-sdk
-	url = /Users/mac/work/platform_sifi/SiFli-SDK
+	url = https://github.com/OpenSiFli/SiFli-SDK.git
+	branch = release/v2.4
