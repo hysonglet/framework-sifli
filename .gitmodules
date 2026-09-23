@@ -1,0 +1,3 @@
+[submodule "sifli-sdk"]
+	path = sifli-sdk
+	url = /Users/mac/work/platform_sifi/SiFli-SDK
