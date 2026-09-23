@@ -1,0 +1,17 @@
+{
+  "name": "framework-sifli-sdk",
+  "version": "1.0.0",
+  "description": "SiFli SDK (RT-Thread based) packaged for PlatformIO. The SDK source is pulled via the `sifli-sdk` git submodule from the official OpenSiFli/SiFli-SDK repository, so the SDK itself stays pristine and tracks upstream.",
+  "type": "framework",
+  "keywords": [
+    "framework",
+    "sifli",
+    "sf32lb52x",
+    "rt-thread"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenSiFli/SiFli-SDK.git"
+  }
+}
