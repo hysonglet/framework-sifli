@@ -1,5 +1,5 @@
 [submodule "sifli-sdk"]
 	path = sifli-sdk
 	url = https://github.com/OpenSiFli/SiFli-SDK.git
-	branch = release/v2.4
+	branch = release/v2.5
 	shallow = true
